@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**snoth0x53/snoth0x53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tinkerer from Hamburg. Punk drummer. Building things that listen.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Fellton](https://github.com/snoth0x53/fellton)**: drum tuning for browser & iOS. Hit a drum, get the pitch per lug.
+- **[The Listening Nest Box](https://github.com/snoth0x53/listening-nestbox)**: tit nest box with infrared camera, bird-song recognition and Home Assistant alerts, on a Raspberry Pi 5.
+- **Drum sequencer**: a macOS app, work in progress.
+- **[Maths games](https://github.com/snoth0x53/schule_Spiele)**: small browser games for first graders (German).
+
+## Around the workshop
+
+Swift, JavaScript, Raspberry Pi, Home Assistant, a bit of 3D printing.
